@@ -14,10 +14,9 @@ Automatización de una prueba al sitio web "demoblaze".
 
 3. Instrucciones para ejecutar los test
 
-  Pasos:
-        - Clonar/descargar el zip del branch/rama "master".
-        - Extraer el proyecto en un directorio y abrir ese directorio con el IDE de IntelliJ
-        - Correr la clase "BuyProductRunner" que est'a ubicado en: "DemoblazeAutomation-master/src/test/java/runners/BuyProductRunner.java"
-        - Ver el reporte que se genera en: "DemoblazeAutomation-master/target/site/serenity/index.html"
+  - Clonar/descargar el zip del branch/rama "master".
+  - Extraer el proyecto en un directorio y abrir ese directorio con el IDE de IntelliJ
+  - Correr la clase "BuyProductRunner" que est'a ubicado en: "DemoblazeAutomation-master/src/test/java/runners/BuyProductRunner.java"
+  - Ver el reporte que se genera en: "DemoblazeAutomation-master/target/site/serenity/index.html"
 
 4. Información adicional Aparte de los 3 puntos descritos anteriormente si hay alguna información necesaria y relevante que se quiera aportar para poder inciar el proyecto.
