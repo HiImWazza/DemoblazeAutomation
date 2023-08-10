@@ -10,11 +10,11 @@ Automatización de una prueba al sitio web "demoblaze".
 
 2. Comandos de instalación:
 
-  - Copiar las dependencias que están ubicados en: "DemoblazeAutomation-master/build.gradle"
+  - ...
 
 3. Instrucciones para ejecutar los test
 
-  - Clonar/descargar el zip del branch/rama "master".
+  - Clonar/descargar el zip del branch/rama "main".
   - Extraer el proyecto en un directorio y abrir ese directorio con el IDE de IntelliJ
   - Correr la clase "BuyProductRunner" que est'a ubicado en: "DemoblazeAutomation-master/src/test/java/runners/BuyProductRunner.java"
   - Ver el reporte que se genera en: "DemoblazeAutomation-master/target/site/serenity/index.html"
