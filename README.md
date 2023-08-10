@@ -3,10 +3,10 @@ Automatización de una prueba al sitio web "demoblaze".
 
 1. Prerequisitos:
 
-  Maquina local con el sistema operativo Windows 11
-  IDE: IntelliJ IDEA 2023.2 (Ultimate Edition)
-  Gradle versión: https://services.gradle.org/distributions/gradle-8.2-bin.zip (Gradle que viene con IntelliJ)
-  correto-19 Amazon Correto Version 19.0.2 (debe estar en la variable de entorno)
+  - Maquina local con el sistema operativo Windows 11
+  - IDE: IntelliJ IDEA 2023.2 (Ultimate Edition)
+  - Gradle versión: https://services.gradle.org/distributions/gradle-8.2-bin.zip (Gradle que viene con IntelliJ)
+  - correto-19 Amazon Correto Version 19.0.2 (debe estar en la variable de entorno)
 
 2. Comandos de instalación:
 
